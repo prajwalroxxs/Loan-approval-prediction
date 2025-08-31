@@ -13,13 +13,3 @@ This project is a **Loan Prediction System** built using **Machine Learning** to
 - 📈 Model performance evaluation and comparison  
 
 ---
-
-## **📂 Project Structure**
-LoanPrediction/
-│-- loanprediction.ipynb # Jupyter Notebook with full code
-│-- dataset.csv # Dataset (if included)
-│-- README.md # Project documentation
-
-
----
-
